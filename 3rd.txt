@@ -1,1 +1,3 @@
 3rd file added to git
+
+Again affed a line to the 3rd file with a CR added at the end

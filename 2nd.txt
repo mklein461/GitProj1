@@ -1,1 +1,3 @@
 2nd file added to git
+
+Added more lines to 2nd file
