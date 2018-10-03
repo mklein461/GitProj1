@@ -1,1 +1,9 @@
-ssdfa
+commit message best practices
+Each Line < 72 characters
+Summary 1st line
+Blank line
+Present tense "This fixes a bug"
+Add tracking numbers
+Be descriptive
+
+
