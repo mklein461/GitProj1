@@ -1,5 +1,8 @@
 Added a new line here on master, should create a merge conflict
-Test Changed in branch
+Added another change to test multi line commit message
+Changed on branch new_feature
+Test change it here in branch
+
 PATH=C:\Program Files\Git\cmd;
 C:\ProgramData\DockerDesktop\version-bin;
 C:\Program Files\Docker\Docker\Resources\bin;
