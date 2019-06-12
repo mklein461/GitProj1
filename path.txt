@@ -1,3 +1,5 @@
+Added another change to test multi line commit message
+
 Changed on branch new_feature
 
 Test Cheng in branch
